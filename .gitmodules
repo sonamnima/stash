@@ -1,0 +1,3 @@
+[submodule "AllProjects"]
+	path = AllProjects
+	url = git@github.com:sonamnima/AllProject.git
